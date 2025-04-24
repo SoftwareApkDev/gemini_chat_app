@@ -1,2 +1,2 @@
 [console_scripts]
-main = main:main
+gemini_chat_app = gemini_chat_app.gemini_chat_app:main

@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: gemini_chat_app
-Version: 1.1
+Version: 1.2
 Summary: This package contains implementation of an application where the user can chat with Google Gemini AI.
 Home-page: https://github.com/SoftwareApkDev/gemini_chat_app
 Author: SoftwareApkDev
@@ -38,7 +38,7 @@ Pre-requisites:
 
 ```
 cd <GEMINI_CHAT_APP_DIRECTORY>
-python3 main.py
+python3 gemini_chat_app.py
 ```
 
 **Note:** Replace <GEMINI_CHAT_APP_DIRECTORY> with the path to the directory of the application **Gemini Chat App**.

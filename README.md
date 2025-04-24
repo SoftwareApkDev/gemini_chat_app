@@ -22,7 +22,7 @@ Pre-requisites:
 
 ```
 cd <GEMINI_CHAT_APP_DIRECTORY>
-python3 main.py
+python3 gemini_chat_app.py
 ```
 
 **Note:** Replace <GEMINI_CHAT_APP_DIRECTORY> with the path to the directory of the application **Gemini Chat App**.
