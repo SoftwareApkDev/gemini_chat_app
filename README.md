@@ -5,7 +5,7 @@ uses Graphical User Interface (GUI).
 
 # Source Code
 
-The source code of **Gemini Chat App** is available in [Source Code](https://github.com/SoftwareApkDev/gemini_chat_app/blob/master/main.py).
+The source code of **Gemini Chat App** is available in [Source Code](https://github.com/SoftwareApkDev/gemini_chat_app/blob/master/gemini_chat_app/gemini_chat_app.py).
 
 # Installation
 
